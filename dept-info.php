@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WordPress Plugin Boilerplate
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Plugin that allows admins and content editors to store site info to be used in different areas of the site.
  * Version:           0.1.0
  * Author:            Austin Tindle
  */
